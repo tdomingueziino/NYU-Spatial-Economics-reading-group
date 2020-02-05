@@ -1,5 +1,4 @@
 # NYU Spatial Economics Reading Group
-This repository hosts materials for the Spatial Economics reading group at NYU.
 
 Meeting time: Wednesdays from 10.45-11.45 am.
 
